@@ -1,1 +1,1 @@
-https://msouldze.github.io/layout-we-core-4.1.8/
+https://msouldze.github.io/layout-web-core-4.1.8/
